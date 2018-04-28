@@ -2,18 +2,32 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Conquest Reforged (advanced)",
-      "name" : "ConquestReforgedAdvanced",
-      "version" : "2.1.71",
-      "location" : "conquestreforgedadvanced.json",
+      "title" : "Conquest Reforged (basic) MC 1.12.2",
+      "name" : "ConquestReforgedBasic1.12.2",
+      "version" : "3.0.0",
+      "location" : "conquestreforgedbasic1.12.2.json",
       "priority" : 1
     },
     {
-      "title" : "Conquest Reforged (basic)",
+      "title" : "Conquest Reforged (advanced) MC 1.10.2",
+      "name" : "ConquestReforgedAdvanced",
+      "version" : "2.1.71",
+      "location" : "conquestreforgedadvanced.json",
+      "priority" : 0
+    },
+    {
+      "title" : "Conquest Reforged (basic) MC 1.10.2",
       "name" : "ConquestReforgedBasic",
       "version" : "2.1.71",
       "location" : "conquestreforgedbasic.json",
       "priority" : 0
+    },
+    {
+      "title" : "Conquest Reforged (advanced) MC 1.12.2",
+      "name" : "ConquestReforgedAdvanced1.12.2",
+      "version" : "3.0.0",
+      "location" : "conquestreforgedadvanced1.12.2.json",
+      "priority" : 1
     }
   ]
 }
