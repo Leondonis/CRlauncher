@@ -4,14 +4,14 @@
     {
       "title" : "Conquest Reforged (advanced) MC 1.12.2",
       "name" : "ConquestReforgedAdvanced1.12.2",
-      "version" : "3.0.12",
+      "version" : "3.0.2",
       "location" : "conquestreforgedadvanced1.12.2.json",
       "priority" : 3
     },
     {
       "title" : "Conquest Reforged (basic) MC 1.12.2",
       "name" : "ConquestReforgedBasic1.12.2",
-      "version" : "3.0.12",
+      "version" : "3.0.2",
       "location" : "conquestreforgedbasic1.12.2.json",
       "priority" : 2
     },
